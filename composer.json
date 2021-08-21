@@ -1,0 +1,9 @@
+{
+	"name": "jupiter777/twig-i18n-extension",
+    "description": "Twig I18n Translation Extension",
+	"version": "dev-master",
+    "require": {},
+    "autoload": {
+        "psr-4": {"TwigI18n\\": "src/"}
+    }
+}
